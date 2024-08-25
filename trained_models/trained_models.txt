@@ -1,0 +1,1 @@
+Please place the downloaded pre training weights "its_train_13_3_19. pk" or "ots_train_13_3_19. pk" in this file directory.
