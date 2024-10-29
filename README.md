@@ -8,9 +8,14 @@ The dehazing results for datasets "NTIRE2020, NTIRE2021, NTIRE2023, NTIRE2024" a
 
 Testing instructions: 
 
-SOTS-indoor: python test.py --task='its' --test_imgs='test_imgs'
-
-SOTS-outdoor: python test.py --task='ots' --test_imgs='test_imgs'
+SOTS-indoor: 
+```
+python test.py --task='its' --test_imgs='test_imgs'
+```
+SOTS-outdoor:
+```
+python test.py --task='ots' --test_imgs='test_imgs'
+```
 
 Training instructions: 
 
